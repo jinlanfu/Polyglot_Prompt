@@ -11,27 +11,23 @@
 
 This repository contains the code and datasets for our paper [Polyglot Prompting: Multilingual Multitask Prompt Training](https://arxiv.org/pdf/2204.14264.pdf).
 
-### Overview
+## Overview
 This paper aims for a potential architectural improvement for multilingual learning and asks: `Can different tasks from different languages be modeled in a monolithic framework, i.e. without any task/language-specific module? `
-The benefit of achieving this could open new doors for future multilingual research, including allowing systems trained on low resources to be further assisted by other languages as well as other tasks.
 
 We approach this goal by developing a learning framework named Polyglot Prompting to exploit prompting methods for learning a unified semantic space for different languages and tasks with multilingual prompt engineering.
 We performed a comprehensive evaluation of $6$ tasks, namely topic classification, sentiment classification, named entity recognition, question answering, natural language inference, and summarization, covering $24$ datasets and $49$ languages.  
 
-The experimental results demonstrated the efficacy of multilingual multitask prompt-based learning and led to inspiring observations. 
-
-
 <div  align="center">
- <img src="pic/polyprompt_frame.png" width = "550" alt="d" align=center />
+ <img src="pic/polyprompt_frame.png" width = "700" alt="d" align=center />
 </div>
 
 
-### Polyglot Prompt Templates
+## Polyglot Prompt Templates
 - `./templates/CL` is the cross-languge prompt templates explored in this work.
 - `./templates/IL` is the in-languge prompt templates explored in this work.
 
 
-### Quick Installation
+## Quick Installation
 
 - `Python==3.7`
 - `torch==1.9.0`
@@ -43,12 +39,12 @@ pip3 install -r requirements.txt
 ```
 
 
-### PolyPrompt Datasets
+## PolyPrompt Datasets
 
 How to use the PolyPrompt Datasets?
 We have released all the datasets prompted with the best settings. We provide two methods for downloading datasets.
 
-#### 1. Load the PolyPrompt Datasets from `DataLab`.
+### 1. Load the PolyPrompt Datasets from `DataLab`.
 
 (1) Install `DataLab` with the following command:
 
@@ -75,7 +71,7 @@ print(dataset['train'][0])
 print(dataset['train']._info)
 ```
  
-#### 2. Build the PolyPrompt Datasets with our provided preprocessing code.
+### 2. Build the PolyPrompt Datasets with our provided preprocessing code.
 
 - `data_preprocess.py` is the data preprocessing code for seven target datasets (e.g., XNLI, TydiQA) and 15 non-target datasets (e.g., MCtest). One can use the prompt template to build the PolyPrompt Datasets.
 
