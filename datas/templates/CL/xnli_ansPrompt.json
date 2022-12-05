@@ -1,0 +1,122 @@
+{
+    "ar": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "bg": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "de": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "el": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "en": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "es": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "fr": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "hi": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "ru": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "sw": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "th": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "tr": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "ur": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "vi": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    },
+    "zh": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 mean the same thing? | (A) Yes. (B) No. (C) Maybe. | Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No",
+            "Maybe"
+        ]
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "en": {
+        "template": "Answer the question based on the review. | Question: Can we conclude that the buyer is satisfied with the product based on his review? ｜ (A) Yes. (B) No. | Review: XXXXX",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "de": {
+        "template": "Answer the question based on the review. | Question: Can we conclude that the buyer is satisfied with the product based on his review? ｜ (A) Yes. (B) No. | Review: XXXXX",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "es": {
+        "template": "Answer the question based on the review. | Question: Can we conclude that the buyer is satisfied with the product based on his review? ｜ (A) Yes. (B) No. | Review: XXXXX",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "fr": {
+        "template": "Answer the question based on the review. | Question: Can we conclude that the buyer is satisfied with the product based on his review? ｜ (A) Yes. (B) No. | Review: XXXXX",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "ja": {
+        "template": "Answer the question based on the review. | Question: Can we conclude that the buyer is satisfied with the product based on his review? ｜ (A) Yes. (B) No. | Review: XXXXX",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "zh": {
+        "template": "Answer the question based on the review. | Question: Can we conclude that the buyer is satisfied with the product based on his review? ｜ (A) Yes. (B) No. | Review: XXXXX",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    }
+}

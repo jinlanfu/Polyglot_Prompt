@@ -1,0 +1,74 @@
+{
+    "en": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+    "de": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+    "es": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+    "fr": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+    "ja": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+    "zh": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+     "it": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    },
+     "ru": {
+        "template": "Answer the question based on the news. | Question: What topic does this news belong to? | (A) Business and Industry. (B) Economy. (C) Government and Society. (D) Market. | News: $$$$$",
+        "answers": [
+            "Business and Industry",
+            "Economy",
+            "Government and Society",
+            "Market"
+        ]
+    }
+}

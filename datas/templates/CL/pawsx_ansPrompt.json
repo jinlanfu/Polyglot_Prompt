@@ -1,0 +1,51 @@
+{
+    "de": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "en": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "es": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "fr": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "ja": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "ko": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    },
+    "zh": {
+        "template": "Answer the question based on paragraph 1 and paragraph 2. | Question: Do Paragraph 1 and Paragraph 2 express the same meaning? ｜ (A) Yes. (B) No. ｜ Paragraph 1: XXXXX | Paragraph 2: $$$$$",
+        "answers": [
+            "Yes",
+            "No"
+        ]
+    }
+}
