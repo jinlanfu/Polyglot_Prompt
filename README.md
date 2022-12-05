@@ -1,11 +1,10 @@
 ## Polyglot Prompting: Multilingual Multitask Prompt Training
 [**Overview**](https://hub.fastgit.org/neulab/SpanNER#overview) | 
 [**Installation**](https://hub.fastgit.org/neulab/SpanNER#how-to-run) |
-[**Polyglot Prompt Templates**](https://hub.fastgit.org/neulab/SpanNER#quick-installation) |
+[**Prompt Templates**](https://hub.fastgit.org/neulab/SpanNER#quick-installation) |
 [**PolyPrompt Datasets**](https://hub.fastgit.org/neulab/SpanNER#demo) | 
 [**Prepare Models**](https://hub.fastgit.org/neulab/SpanNER#prepare-models) |
 [**Running**](https://hub.fastgit.org/neulab/SpanNER#how-to-run) |
-[**System Combination**](https://hub.fastgit.org/neulab/SpanNER#system-combination) |
 [**Bib**](https://hub.fastgit.org/neulab/SpanNER#bib)
 
 
@@ -83,7 +82,16 @@ print(dataset['train']._info)
 The `PolyPrompt` model can be downloaded from XXX.
 
 
+## Bib
 
+```
+@article{fu2022polyglot,
+  title={Polyglot Prompt: Multilingual Multitask PrompTraining},
+  author={Fu, Jinlan and Ng, See-Kiong and Liu, Pengfei},
+  journal={EMNLP},
+  year={2022}
+}
+```
 
 
 
