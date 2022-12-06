@@ -1,5 +1,5 @@
 ## Polyglot Prompting: Multilingual Multitask Prompt Training
-[**Overview**](https://hub.fastgit.org/neulab/SpanNER#overview) | 
+[**Overview**](https://hub.fastgit.org/jinlanfu/Polyglot_Prompt#overview) | 
 [**Installation**](https://hub.fastgit.org/neulab/SpanNER#how-to-run) |
 [**PolyPrompt Datasets**](https://hub.fastgit.org/neulab/SpanNER#demo) | 
 [**Resources**](https://hub.fastgit.org/neulab/SpanNER#overview) | 
