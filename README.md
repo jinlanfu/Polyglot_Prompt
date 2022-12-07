@@ -1,5 +1,6 @@
 ## Polyglot Prompting: Multilingual Multitask Prompt Training
-[**Overview**](https://hub.fastgit.org/jinlanfu/Polyglot_Prompt#overview) | 
+<!-- [**Overview**](https://hub.fastgit.org/jinlanfu/Polyglot_Prompt#overview) |  -->
+[**Overview**](#1) | 
 [**Installation**](https://hub.fastgit.org/neulab/SpanNER#how-to-run) |
 [**PolyPrompt Datasets**](https://hub.fastgit.org/neulab/SpanNER#demo) | 
 [**Resources**](https://hub.fastgit.org/neulab/SpanNER#overview) | 
@@ -9,7 +10,7 @@
 
 This repository contains the code and datasets for our paper [Polyglot Prompting: Multilingual Multitask Prompt Training](https://arxiv.org/pdf/2204.14264.pdf).
 
-## Overview
+<h2 id="1"> Overview </h2>
 This paper aims for a potential architectural improvement for multilingual learning and asks: `Can different tasks from different languages be modeled in a monolithic framework, i.e. without any task/language-specific module? `
 
 We approach this goal by developing a learning framework named Polyglot Prompting to exploit prompting methods for learning a unified semantic space for different languages and tasks with multilingual prompt engineering.
