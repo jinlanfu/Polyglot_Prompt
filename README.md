@@ -1,11 +1,10 @@
 ## Polyglot Prompting: Multilingual Multitask Prompt Training
-<!-- [**Overview**](https://hub.fastgit.org/jinlanfu/Polyglot_Prompt#overview) |  -->
 [**Overview**](#1) | 
-[**Installation**](https://hub.fastgit.org/neulab/SpanNER#how-to-run) |
-[**PolyPrompt Datasets**](https://hub.fastgit.org/neulab/SpanNER#demo) | 
-[**Resources**](https://hub.fastgit.org/neulab/SpanNER#overview) | 
-[**Running**](https://hub.fastgit.org/neulab/SpanNER#how-to-run) |
-[**Bib**](https://hub.fastgit.org/neulab/SpanNER#bib)
+[**Installation**](#2) |
+[**PolyPrompt Datasets**](#3) | 
+[**Resources**](#4) | 
+[**Running**](#5) |
+[**Bib**](#6)
 
 
 This repository contains the code and datasets for our paper [Polyglot Prompting: Multilingual Multitask Prompt Training](https://arxiv.org/pdf/2204.14264.pdf).
@@ -22,7 +21,7 @@ We performed a comprehensive evaluation of $6$ tasks, namely topic classificatio
 
 
 
-## Quick Installation
+<h2 id="2"> Quick Installation </h2>
 
 - `Python==3.7`
 - `torch==1.9.0`
@@ -34,7 +33,7 @@ pip3 install -r requirements.txt
 ```
 
 
-## PolyPrompt Datasets
+<h2 id="3"> PolyPrompt Datasets </h2>
 
 How to use the PolyPrompt Datasets?
 We have released all the datasets prompted with the best settings. We also provide two methods for downloading the original datasets.
@@ -72,7 +71,7 @@ print(dataset['train']._info)
 
 
 
-## Resources
+<h2 id="4"> Resources </h2>
 
 ### Polyglot Prompt Templates
 - `./templates/CL` is the cross-languge prompt templates explored in this work.
@@ -84,7 +83,7 @@ print(dataset['train']._info)
 - The training set with `.pt` format for the PolyPrompt model: [7targetdatas_CL_train](https://drive.google.com/file/d/1NagSJf6f-cYk4Y7AOHWcsLU0laBZyccO/view?usp=share_link).
 
 
-## How to Run?
+<h2 id="5"> How to Run? </h2>
 
 Preprocess or download datasets with cross-language prompt templates, and place datasets in `./datas`.
 Run the `train_mt5.py` with the following command:
@@ -141,7 +140,7 @@ If you just want to evaluate your own PolyPrompt model, you can run the followin
 
 
 
-## Bib
+<h2 id="6"> Bib </h2>
 
 ```
 @article{fu2022polyglot,
